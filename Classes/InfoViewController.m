@@ -7,6 +7,7 @@
 //
 
 #import "InfoViewController.h"
+#import "AboutViewController.h"
 #import "MapAnnotation.h"
 
 @implementation InfoViewController
@@ -16,18 +17,28 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
-}
-//*/
-
--(void) viewWillAppear:(BOOL)animated {
-	[super viewWillAppear:animated];
 	
 	MKCoordinateRegion region = { {40.553909, -105.091411 }, { 0.003, 0.003 } };
-	[self.mapView setCenterCoordinate:region.center animated:YES];
-	[self.mapView setRegion:region animated:YES];
+	[self.mapView setCenterCoordinate:region.center animated:NO];
+	[self.mapView setRegion:region animated:NO];
 	
 	MapAnnotation *annotation = [[[MapAnnotation alloc] initWithCoordinate:region.center title:@"View In Google Maps"] autorelease];
 	[self.mapView addAnnotation:annotation];
+}
+//*/
+
+#pragma mark -
+
+-(IBAction)showAbout:(id)sender {
+	AboutViewController *vc = [[AboutViewController alloc] initWithNibName:@"AboutView" bundle:nil];
+	[self presentModalViewController:vc animated:YES];
+	[vc release];
+}
+
+#pragma mark -
+
+-(void) viewWillAppear:(BOOL)animated {
+	[super viewWillAppear:animated];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -53,6 +64,8 @@
 
 - (void)showDetails:(id)sender {
 	dlog(@"enter");
+	[[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://maps.google.com/maps?f=q&q=40.553867,-105.091413+(814+W+Drake+Rd,+Fort+Collins,+CO+80526,+USA)&ie=UTF8&t=h&z=14"]]
+	;
 }
 
 - (MKAnnotationView *)mapView:(MKMapView *)theMapView viewForAnnotation:(id <MKAnnotation>)annotation {

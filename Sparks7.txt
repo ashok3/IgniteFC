@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:ignitefortcollins.uservoice.com,2008-02-07:/forums/16009-ignite-fort-collins-7-topic-submission-voting-i</id>
+  <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i" rel="alternate"/>
+  <link type="application/atom+xml" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i.atom" rel="self"/>
+  <title>Ignite Fort Collins #7 Topic Submission &amp;amp; Voting is Open! on UserVoice</title>
+  <updated>2011-01-20T17:55:07Z</updated>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4970173</id>
+    <published>2011-01-20T17:55:07Z</published>
+    <updated>2011-01-20T17:55:07Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1370531-the-calendar-conspiracy-to-seperate-us-from-nature" rel="alternate"/>
+    <title type="html">The Calendar Conspiracy to seperate us from Natures cycle [updated]</title>
+    <content type="html">&lt;p&gt;Why doesn't our calendar recognize celestial significant days that could unite the world.  Who has a vested interest in keeping us separate from nature?  Can our calendar ever change or is it written in stone until the end of time. Why would it be good for the future to reconnect to the natural cycle?&lt;/p&gt;&lt;p&gt;Kelly said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;I guess I am too logical a person for this...but tell me why is it a fair analysis of topics? Because if someone joins early and spends all ten votes then new topics are added later would not be able to be voted on.  Geeze...I hate to be negative loser...but this voting process is bizarre...I guess I should be sharing this by clicking the facebook and twitter buttons...If anyone can help me by getting their friends to vote on this...I would appreciate it.&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4970167</id>
+    <published>2011-01-20T17:54:56Z</published>
+    <updated>2011-01-20T17:54:56Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1396217-experience-knowledge-wisdom" rel="alternate"/>
+    <title type="html">Experience+Knowledge=Wisdom [updated]</title>
+    <content type="html">&lt;p&gt;Give me 5 minutes and I'll give you 5 keys to turning any Experience into your own personal nugget of Wisdom.
+
+Book learning without experience is Knowledge, but not Wisdom. Experience without a construct to understand and communicate is valuable, but not Wisdom. 
+
+Wisdom only comes through the combination of personal experience and the ability to share what you've learned. 
+
+I'll share the 5 variables that will allow you to communicate your knowledge and experience to anyone.&lt;/p&gt;&lt;p&gt;Kevin Houchin said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;There's also a good argument for motivating people to post ideas in early.  :-)&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4970063</id>
+    <published>2011-01-20T17:49:05Z</published>
+    <updated>2011-01-20T17:49:05Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1370531-the-calendar-conspiracy-to-seperate-us-from-nature" rel="alternate"/>
+    <title type="html">The Calendar Conspiracy to seperate us from Natures cycle [updated]</title>
+    <content type="html">&lt;p&gt;Why doesn't our calendar recognize celestial significant days that could unite the world.  Who has a vested interest in keeping us separate from nature?  Can our calendar ever change or is it written in stone until the end of time. Why would it be good for the future to reconnect to the natural cycle?&lt;/p&gt;&lt;p&gt;Kelly said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;It doesn't seem it makes sense for me to vote for topics above my listing because then I will be lowing my topics percentage.  Does anybody read these comments... if So please vote for this!  Is this a race of who can market themselves through network connections and get their friends to vote for them?  If so I am doomed. Please vote for this!&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4969925</id>
+    <published>2011-01-20T17:42:03Z</published>
+    <updated>2011-01-20T17:42:03Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1396217-experience-knowledge-wisdom" rel="alternate"/>
+    <title type="html">Experience+Knowledge=Wisdom [updated]</title>
+    <content type="html">&lt;p&gt;Give me 5 minutes and I'll give you 5 keys to turning any Experience into your own personal nugget of Wisdom.
+
+Book learning without experience is Knowledge, but not Wisdom. Experience without a construct to understand and communicate is valuable, but not Wisdom. 
+
+Wisdom only comes through the combination of personal experience and the ability to share what you've learned. 
+
+I'll share the 5 variables that will allow you to communicate your knowledge and experience to anyone.&lt;/p&gt;&lt;p&gt;Kelly said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;Doesn't seem like it would make more fair if all submission ideas went live the same day?&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4969833</id>
+    <published>2011-01-20T17:34:29Z</published>
+    <updated>2011-01-20T17:34:29Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1396217-experience-knowledge-wisdom" rel="alternate"/>
+    <title type="html">Experience+Knowledge=Wisdom</title>
+    <content type="html">&lt;p&gt;Kevin Houchin suggested:&lt;br /&gt;Give me 5 minutes and I'll give you 5 keys to turning any Experience into your own personal nugget of Wisdom.
+
+Book learning without experience is Knowledge, but not Wisdom. Experience without a construct to understand and communicate is valuable, but not Wisdom. 
+
+Wisdom only comes through the combination of personal experience and the ability to share what you've learned. 
+
+I'll share the 5 variables that will allow you to communicate your knowledge and experience to anyone.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4957547</id>
+    <published>2011-01-20T00:34:47Z</published>
+    <updated>2011-01-20T00:34:47Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1394167-financial-education-and-teaching-the-historical-ev" rel="alternate"/>
+    <title type="html">financial education and teaching the historical events that has lead to the current economic crisis</title>
+    <content type="html">&lt;p&gt;Adam Chandler suggested:&lt;br /&gt;So this is about financial education and teaching the historical events that have lead to our current economic crisis and inevitable financial system collapse coming over the next few years. I will relate what we are seeing today with what was happening in the Roman empire right before its collapse. The similarities are amazing&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4956749</id>
+    <published>2011-01-19T23:42:08Z</published>
+    <updated>2011-01-19T23:42:08Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1394039-going-yard-insiders-guide-to-hosting-ftc-foxes-ba" rel="alternate"/>
+    <title type="html">Going Yard: Insiders guide to hosting FtC Foxes Baseball Players from the Alpha Mom's Perspective.</title>
+    <content type="html">&lt;p&gt;Marge Brodahl suggested:&lt;br /&gt;After six summers of hosting college baseball players in our home for the Ft. Collins Foxes Baseball Club, this alpha mom will share zany stories that will have you laughing and rolling your eyes!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4948645</id>
+    <published>2011-01-19T14:05:00Z</published>
+    <updated>2011-01-19T14:05:00Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1391865-avoiding-design-disaster-aka-don-t-leave-it-up-to" rel="alternate"/>
+    <title type="html">Avoiding Design Disaster (aka don't leave it up to a programmer!)</title>
+    <content type="html">&lt;p&gt;Ron Zasadzinski suggested:&lt;br /&gt;You've all seen it - a crappy website, a restaurant menu that's hard to read, a brochure that makes you shake your head. Why oh why does this have to happen!? It doesn't, if you keep in mind a few basic design principles. If you lay out any of your own print or web content this information will help keep you out of the weeds. It'll help you figure out if your designer is worth what you are paying them too. (Hint - when they ask for a raise, say &amp;quot;yes&amp;quot;.)&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4923415</id>
+    <published>2011-01-17T20:45:32Z</published>
+    <updated>2011-01-17T20:45:32Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1386751-create-more-consume-less" rel="alternate"/>
+    <title type="html">Create More, Consume Less</title>
+    <content type="html">&lt;p&gt;Jochen Wolters suggested:&lt;br /&gt;Being creative is tremendously satisfying: starting with a mere idea and working at it with dedication to make something that didn't exist before -- that is so much more rewarding than consuming what others make. All it takes to get started is setting aside a few minutes a day, every day.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4901791</id>
+    <published>2011-01-16T17:41:27Z</published>
+    <updated>2011-01-16T17:41:27Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;maria riquet said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;you're doing great Don...and best wishes!&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4867303</id>
+    <published>2011-01-14T15:27:46Z</published>
+    <updated>2011-01-14T15:27:46Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;Karen Hart said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;Don Rocks!&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4837727</id>
+    <published>2011-01-13T07:02:39Z</published>
+    <updated>2011-01-13T07:02:39Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;Sonia said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;Sounds fun, Don. Good Luck!&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4834961</id>
+    <published>2011-01-13T03:30:40Z</published>
+    <updated>2011-01-13T03:30:40Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;Vic  said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;Good Luck Don. Be sure to add a post on directoryoffortcollins.com&lt;/p&gt;
+
+&lt;p class=&quot;textilish&quot;&gt;Vic&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4814383</id>
+    <published>2011-01-12T04:57:38Z</published>
+    <updated>2011-01-12T04:57:38Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1370531-the-calendar-conspiracy-to-seperate-us-from-nature" rel="alternate"/>
+    <title type="html">The Calendar Conspiracy to seperate us from Natures cycle [updated]</title>
+    <content type="html">&lt;p&gt;Why doesn't our calendar recognize celestial significant days that could unite the world.  Who has a vested interest in keeping us separate from nature?  Can our calendar ever change or is it written in stone until the end of time. Why would it be good for the future to reconnect to the natural cycle?&lt;/p&gt;&lt;p&gt;Kelly said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;This is going to be a funny, satirical rant that  at the same time will make you question something that you may have taken for granted as being insignificant.&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4814367</id>
+    <published>2011-01-12T04:54:16Z</published>
+    <updated>2011-01-12T04:54:16Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1370531-the-calendar-conspiracy-to-seperate-us-from-nature" rel="alternate"/>
+    <title type="html">The Calendar Conspiracy to seperate us from Natures cycle</title>
+    <content type="html">&lt;p&gt;Kelly suggested:&lt;br /&gt;Why doesn't our calendar recognize celestial significant days that could unite the world.  Who has a vested interest in keeping us separate from nature?  Can our calendar ever change or is it written in stone until the end of time. Why would it be good for the future to reconnect to the natural cycle?&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4811227</id>
+    <published>2011-01-11T23:41:19Z</published>
+    <updated>2011-01-11T23:41:19Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1369901-are-you-a-highly-sensitive-person-" rel="alternate"/>
+    <title type="html">Are You A Highly Sensitive Person?</title>
+    <content type="html">&lt;p&gt;Jaer suggested:&lt;br /&gt;Did you know that research shows that 15-20% of the population has an innate, genetic trait which is a more finely tuned nervous system ? Yes, our brains operate differently than 80% of the majority of the population allowing us to: process information more deeply; become easily overwhelmed by stimuli in our environment; and causes us to be more aware of subtleties?   This can be a curse or a blessing - depending upon how one learns to cope with this trait.  You might ask yourself the following questions:  Do you need more sleep than the average person?  Do you need more down time to process the events of your day?  Are you deeply intuitive and keenly perceptive?  Are you uniquely spiritual?  Do you have a rich, complex inner life?  Do you have vivid dreams?  If you answer yes, then you may be a Highly Sensitive Person (HSP.)   Learn more from a Licensed Professional counselor and HSP herself who has been organizing HSP Gathering Retreats, both locally, nationally and internationally since 2001,with Dr. Elaine Aron, author and research psychologist who has studied this trait and published several books. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4807459</id>
+    <published>2011-01-11T19:25:31Z</published>
+    <updated>2011-01-11T19:25:31Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;Diane Litynski said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;There isn't a better way to learn the meaning of inspiration, motivation, and leadership, than submitting a climb, whether solo or with a team.  It takes goal setting, intuition, detailed operations, respect for the task - Don McGrath knows.  This is the way to learn leadership. Go Don!&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4804305</id>
+    <published>2011-01-11T16:00:30Z</published>
+    <updated>2011-01-11T16:00:30Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;Nadine said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;You &amp;quot;ROCK&amp;quot; Don!  Haha! Sounds great!&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4803481</id>
+    <published>2011-01-11T15:02:18Z</published>
+    <updated>2011-01-11T15:02:18Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;Sharon  said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;Great topic!!  Be interested in knowing the particulars. . .&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4796595</id>
+    <published>2011-01-11T02:02:26Z</published>
+    <updated>2011-01-11T02:02:26Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;Mark Andrew Wilson said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;Sounds like a great experience!!&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4783677</id>
+    <published>2011-01-10T03:47:00Z</published>
+    <updated>2011-01-10T03:47:00Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks [updated]</title>
+    <content type="html">&lt;p&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;&lt;p&gt;Robin Colucci Hoffman said:&lt;br /&gt;&lt;p class=&quot;textilish&quot;&gt;Don would be a fantastic interview!&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4783025</id>
+    <published>2011-01-10T02:11:00Z</published>
+    <updated>2011-01-10T02:11:00Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1364137-what-i-learned-about-leadership-by-climbing-rocks" rel="alternate"/>
+    <title type="html">What I Learned About Leadership by Climbing Rocks</title>
+    <content type="html">&lt;p&gt;don mcgrath suggested:&lt;br /&gt;I've read all the leadership books; Good to Great, Getting Things Done, First Break All The Rules, etc.
+But I have had some of my most impact full insights in my adventure climbing rocks around the world.
+Be prepared for some fun photos...&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4713145</id>
+    <published>2011-01-06T03:45:30Z</published>
+    <updated>2011-01-06T03:45:30Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1353525-the-privacy-myth" rel="alternate"/>
+    <title type="html">The Privacy Myth</title>
+    <content type="html">&lt;p&gt;Kurt Sorensen suggested:&lt;br /&gt;People are transitioning from giving personal information on a &amp;quot;needs to know&amp;quot; to now being explicit about whom they don't want to know something.
+
+I will share my knowledge of the credit industry, online marketing and mobile phones to show the power of information and how to better protect yours.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4711765</id>
+    <published>2011-01-06T01:52:32Z</published>
+    <updated>2011-01-06T01:52:32Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1353335-we-can-do-this-the-easy-way-or-the-hard-way-" rel="alternate"/>
+    <title type="html">We Can Do This the Easy Way, or the Hard Way....</title>
+    <content type="html">&lt;p&gt;Rich Young suggested:&lt;br /&gt;Q: What do cars, TV, calculators and speed dial have in common?  
+A: They all do things *for* us that people used to do *themselves*.
+Q: But to what end, and at what cost?
+A: Come to Ignite and I&#8217;ll tell you.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4707621</id>
+    <published>2011-01-05T20:49:53Z</published>
+    <updated>2011-01-05T20:49:53Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1352409-horrible-negotiation-tips-how-to-get-anything-you" rel="alternate"/>
+    <title type="html">Horrible Negotiation Tips: How To Get Anything You Want By Playing Dirty Pool</title>
+    <content type="html">&lt;p&gt;Nick Armstrong suggested:&lt;br /&gt;I've always been just a little too good at negotiation.
+
+The guy who sold me my car - he was fired. Freshman Composition? Allowed to skip it.
+
+In 5 short minutes, I'll teach you some horrible techniques to alienate and offend people into giving in to your demands. I could teach you the right way to do it - but what's the fun in that?&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4704291</id>
+    <published>2011-01-05T17:25:10Z</published>
+    <updated>2011-01-05T17:25:10Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1351761-nick-armstrong-s-almanac-amazing-semi-true-facts-" rel="alternate"/>
+    <title type="html">Nick Armstrong's Almanac: Amazing Semi-True Facts About Reality</title>
+    <content type="html">&lt;p&gt;Nick Armstrong suggested:&lt;br /&gt;Join Nick Armstrong in an exploration of the amazing reality that some of us live in. You'll learn semi-truthful and incredibly shocking things about the world of technology and human behavior.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4694431</id>
+    <published>2011-01-05T04:45:33Z</published>
+    <updated>2011-01-05T04:45:33Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1350443-change-making-it-happen" rel="alternate"/>
+    <title type="html">Change - Making it Happen</title>
+    <content type="html">&lt;p&gt;Joyce Raby suggested:&lt;br /&gt;Nine out of ten people find making lifestyle changes impossible - even when death is the alternative.  Learn why and how to make change happen for yourself and others.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ignitefortcollins.uservoice.com,2008-02-07:Event/4689813</id>
+    <published>2011-01-04T22:46:55Z</published>
+    <updated>2011-01-04T22:46:55Z</updated>
+    <link type="text/html" href="http://ignitefortcollins.uservoice.com/forums/16009-ignite-fort-collins-7-topic-submission-voting-i/suggestions/1349761-zen-and-the-art-of-race-car-driving" rel="alternate"/>
+    <title type="html">Zen and the Art of Race Car Driving</title>
+    <content type="html">&lt;p&gt;Karen Fritz suggested:&lt;br /&gt;High-octane insights from the track for living that state of flow, where action and awareness merge. When you&#8217;re fully present to the experience -  what&#8217;s really here in the moment, rather than distracted by thoughts about it -  shifting smoothly into a turn at 90 miles an hour isn&#8217;t so different from preparing a meal or running a board meeting.&lt;/p&gt;</content>
+  </entry>
+</feed>

@@ -1,4 +1,4 @@
-    //
+//
 //  MediaViewController.m
 //  IgniteFC
 //
@@ -11,7 +11,7 @@
 
 @implementation MediaViewController
 
-@synthesize webView,
+@synthesize myWebView,
 activityIndicator,
 typeSegmentedControl;
 
@@ -25,34 +25,33 @@ typeSegmentedControl;
 //*/
 
 -(IBAction)loadSelectedPage {
-	NSString* urlString = @"http://m.youtube.com/#/profile?desktop_uri=%2Fuser%2Fignitefc&sort=p&channel_id=0&ytsession=%7B%7D&user=ignitefc&start=0&gl=US&bmb=1";
+	NSString* urlString = @"http://m.youtube.com/profile?gl=US&hl=en&user=IgniteFC&view=playlists";
 	if(1 == self.typeSegmentedControl.selectedSegmentIndex) {
-		urlString = @"http://m.flickr.com/#/search/advanced_QM_q_IS_ignite+fort+collins_AND_ss_IS_0_AND_mt_IS_all_AND_w_IS_all";
+		urlString = @"http://m.flickr.com/#/search/advanced_QM_q_IS_ignitefc+OR+%22ignite+fort+collins%22_AND_ss_IS_1_AND_prefs_photos_IS_1_AND_mt_IS_all_AND_w_IS_all";
 	}
 	NSURL* url = [NSURL URLWithString:urlString];
 	NSURLRequest* request = [NSURLRequest requestWithURL:url];
-	[self.webView setAllowsInlineMediaPlayback:YES];
-	[self.webView loadRequest:request];
-	
+	[self.myWebView setAllowsInlineMediaPlayback:YES];
+	[self.myWebView loadRequest:request];
 }
 
 #pragma mark -
 
 -(IBAction)refreshWebView:(id)sender {
-	[self.webView reload];
+	[self.myWebView reload];
 }
 
 -(IBAction)openSafari:(id)sender{
-	NSURL *actionUrl = [[self.webView request] URL];
+	NSURL *actionUrl = [[self.myWebView request] URL];
 	[[UIApplication sharedApplication] openURL:actionUrl];		
 }
 
 -(IBAction)goForward:(id)sender{
-	[self.webView goForward];
+	[self.myWebView goForward];
 }
 
 -(IBAction)goBack:(id)sender{
-	[self.webView goBack];
+	[self.myWebView goBack];
 }
 
 #pragma mark -
@@ -69,19 +68,21 @@ typeSegmentedControl;
 }
 
 - (void)webViewDidFinishLoad:(UIWebView *)webView {
-	dlog(@"enter");
+	dlog(@"enter b=%d, f=%d", webView.canGoBack, webView.canGoForward);
 	[self.activityIndicator stopAnimating];
-	if(!self.webView.canGoBack) {
+	/*
+	 if(!webView.canGoBack) {
 		[self.backButton setEnabled:NO];
 	} else {
 		[self.backButton setEnabled:YES];
 	}
 	
-	if(!self.webView.canGoForward) {
+	if(!webView.canGoForward) {
 		[self.forwardButton setEnabled:NO];
 	} else {
 		[self.forwardButton setEnabled:YES];
 	}
+*/
 }
 
 - (void)webView:(UIWebView *)webView didFailLoadWithError:(NSError *)error {

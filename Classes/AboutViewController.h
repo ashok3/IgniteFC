@@ -9,11 +9,12 @@
 #import <UIKit/UIKit.h>
 
 
-@interface SparksViewController : UIViewController {
+@interface AboutViewController : UIViewController <UIWebViewDelegate> {
 
 }
 
-@property (nonatomic, retain) NSArray *igniteSparks;
-@property (nonatomic, retain) IBOutlet UITableView *sparksTableView;
+@property (nonatomic, retain) IBOutlet UIWebView *myWebView;
+
+-(IBAction)close:(id)sender;
 
 @end

@@ -13,7 +13,8 @@
 
 @synthesize webView,
 activityIndicator,
-twitterTypeSegmentedControl;
+twitterTypeSegmentedControl,
+webToolTip;
 
 @synthesize backButton, forwardButton;
 
@@ -24,19 +25,35 @@ twitterTypeSegmentedControl;
 }
 //*/
 
+#define kIgniteFacebookSegment 99
+#define kAtIgniteFCSegment 0
+#define kHashIgniteFCSegment 1
+#define kHashGlobalIgniteSegment 2
+
 -(IBAction)loadSelectedPage {
-	NSString* urlString = @"http://m.twitter.com/ignitefc";
-	if(1 == self.twitterTypeSegmentedControl.selectedSegmentIndex) {
-		urlString = @"http://m.twitter.com/searches?q=%23ignitefc";
+	NSString* urlString = @"http://m.twitter.com/ignitefc";	
+	self.webToolTip.text = @"@igniteFC :: Ignite Fort Collins Twitter Feed";
+	switch (self.twitterTypeSegmentedControl.selectedSegmentIndex) {
+		case kHashIgniteFCSegment:
+			urlString = @"http://mobile.twitter.com/searches?q=%23ignitefc";
+			self.webToolTip.text = @"#igniteFC :: Hash for Ignite Fort Collins";
+			break;
+		case kIgniteFacebookSegment:
+			urlString = @"https://m.facebook.com/IgniteFC";
+			self.webToolTip.text = @"Ignite Fort Collins' Facebook Page";
+			break;
+		case kHashGlobalIgniteSegment:
+			urlString = @"http://mobile.twitter.com/searches?q=%23GIW";
+			self.webToolTip.text = @"#GIW :: Global Ignite Week";
+			break;
+		default:
+			break;
 	}
-	if(2 == self.twitterTypeSegmentedControl.selectedSegmentIndex) {
-		urlString = @"http://m.twitter.com/searches?q=%23GIW";
-	}
+	
 	NSURL* url = [NSURL URLWithString:urlString];
 	NSURLRequest* request = [NSURLRequest requestWithURL:url];
 	[self.webView setAllowsInlineMediaPlayback:YES];
 	[self.webView loadRequest:request];
-	
 }
 
 #pragma mark -
@@ -46,8 +63,7 @@ twitterTypeSegmentedControl;
 }
 
 -(IBAction)openSafari:(id)sender{
-	NSURL *actionUrl = [[self.webView request] URL];
-	[[UIApplication sharedApplication] openURL:actionUrl];		
+	[[UIApplication sharedApplication] openURL:[[self.webView request] URL]];		
 }
 
 -(IBAction)goForward:(id)sender{
@@ -74,17 +90,20 @@ twitterTypeSegmentedControl;
 - (void)webViewDidFinishLoad:(UIWebView *)webView {
 	dlog(@"enter");
 	[self.activityIndicator stopAnimating];
+
+	/*
 	if(!self.webView.canGoBack) {
 		[self.backButton setEnabled:NO];
 	} else {
 		[self.backButton setEnabled:YES];
 	}
-
+	
 	if(!self.webView.canGoForward) {
 		[self.forwardButton setEnabled:NO];
 	} else {
 		[self.forwardButton setEnabled:YES];
 	}
+	 */
 }
 
 - (void)webView:(UIWebView *)webView didFailLoadWithError:(NSError *)error {
@@ -96,21 +115,21 @@ twitterTypeSegmentedControl;
 
 
 - (void)didReceiveMemoryWarning {
-    // Releases the view if it doesn't have a superview.
-    [super didReceiveMemoryWarning];
-    
-    // Release any cached data, images, etc. that aren't in use.
+	// Releases the view if it doesn't have a superview.
+	[super didReceiveMemoryWarning];
+	
+	// Release any cached data, images, etc. that aren't in use.
 }
 
 - (void)viewDidUnload {
-    [super viewDidUnload];
-    // Release any retained subviews of the main view.
-    // e.g. self.myOutlet = nil;
+	[super viewDidUnload];
+	// Release any retained subviews of the main view.
+	// e.g. self.myOutlet = nil;
 }
 
 
 - (void)dealloc {
-    [super dealloc];
+	[super dealloc];
 }
 
 

@@ -7,14 +7,18 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "PresentorTableViewCell.h"
 
 @interface EventsViewController : UIViewController <UITableViewDelegate> {
 
 }
 
-@property (nonatomic, retain) NSArray *igniteEvents;
+@property (nonatomic, retain) NSArray *igniteEventTitles;
+@property (nonatomic, retain) NSDictionary *igniteEventSparks;
 
+@property (nonatomic, retain) NSArray *tableArrayOfDicts;
+//@property (nonatomic, retain) IBOutlet UITableView *myTableView;
 @property (nonatomic, retain) IBOutlet UITableView *eventsTableView;
+@property (nonatomic, retain) IBOutlet PresentorTableViewCell *tblCell;
 
 @end

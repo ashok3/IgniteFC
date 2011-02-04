@@ -13,12 +13,12 @@
 
 }
 
-@property (nonatomic, retain) IBOutlet UIWebView *webView;
+@property (nonatomic, retain) IBOutlet UIWebView *myWebView;
 @property (nonatomic, retain) IBOutlet UISegmentedControl *typeSegmentedControl;
 @property (nonatomic, retain) IBOutlet UIActivityIndicatorView *activityIndicator;
 
-@property (nonatomic, retain) IBOutlet UIBarButtonItem *backButton;
-@property (nonatomic, retain) IBOutlet UIBarButtonItem *forwardButton;
+@property (nonatomic, retain) IBOutlet UIButton *backButton;
+@property (nonatomic, retain) IBOutlet UIButton *forwardButton;
 
 -(IBAction)loadSelectedPage;
 

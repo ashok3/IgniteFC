@@ -71,6 +71,7 @@ entriesTableView;
 	
 	NSLog(@"%@", [entry XMLElement]);
 	
+	/*
 	if ([entry isKindOfClass: [GDataEntryYouTubeVideo class]]) { 
 		GDataEntryYouTubeVideo *video = (GDataEntryYouTubeVideo *)entry;
 		if ([video respondsToSelector: @selector(mediaGroup)]) { 
@@ -81,6 +82,7 @@ entriesTableView;
 			cell.imageView.image = [UIImage imageWithData:data];
 		} 
 	} 
+	 */
 	
     return cell;
 }

@@ -17,8 +17,9 @@
 @property (nonatomic, retain) IBOutlet UISegmentedControl *twitterTypeSegmentedControl;
 @property (nonatomic, retain) IBOutlet UIActivityIndicatorView *activityIndicator;
 
-@property (nonatomic, retain) IBOutlet UIBarButtonItem *backButton;
-@property (nonatomic, retain) IBOutlet UIBarButtonItem *forwardButton;
+@property (nonatomic, retain) IBOutlet UIButton *backButton;
+@property (nonatomic, retain) IBOutlet UIButton *forwardButton;
+@property (nonatomic, retain) IBOutlet UILabel *webToolTip;
 
 -(IBAction)loadSelectedPage;
 
