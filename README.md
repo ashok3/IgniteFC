@@ -7,6 +7,7 @@
 - Twitter/YouTube/Flickr Mobile Website Viewing
 - Sparks for #7
 - Sponsors List
+- Supports iOS 3.1.3 and Later
 
 ## Road Map
 

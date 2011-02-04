@@ -52,7 +52,6 @@ webToolTip;
 	
 	NSURL* url = [NSURL URLWithString:urlString];
 	NSURLRequest* request = [NSURLRequest requestWithURL:url];
-	[self.webView setAllowsInlineMediaPlayback:YES];
 	[self.webView loadRequest:request];
 }
 

@@ -31,7 +31,6 @@ typeSegmentedControl;
 	}
 	NSURL* url = [NSURL URLWithString:urlString];
 	NSURLRequest* request = [NSURLRequest requestWithURL:url];
-	[self.myWebView setAllowsInlineMediaPlayback:YES];
 	[self.myWebView loadRequest:request];
 }
 

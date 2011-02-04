@@ -126,7 +126,7 @@ myTableView;
     }
     
 	// Configure the cell.
-	NSDictionary *dict;
+	NSDictionary *dict = nil;
 	switch (indexPath.section) {
 		case kPremierSection:
 			dict = [self.premierSponsorsDict objectAtIndex:indexPath.row];
