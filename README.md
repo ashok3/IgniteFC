@@ -1,4 +1,8 @@
+*Developer Note* :: This version was written quickly in just a few days, so if you download/fork the code please note that most of the code will be rewritten for the next version. It will be and is currently being actively developed and re-factored in order to achieve a fully modular framework for multiple ignite events, as well as other platforms.
+
 # Ignite Fort Collins (IgniteFC) 
+
+This is a project to enable an Ignite event information to be more accessible by bringing it to the mobile platform. The current version uses some static information built into the app, as well as data and information from external services like Twitter and YouTube as well as some custom JSON feeds currently being stored on the developer's website. 
 
 ## 1.0.0
 
